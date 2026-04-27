@@ -170,7 +170,7 @@ if file_mb52 and file_adprod:
         top_10.index = top_10.index + 1
 
         num_linhas = len(top_10)
-        altura_linha = 35 
+        altura_linha = 34 
         altura_header = 40
         altura_total = (num_linhas * altura_linha) + altura_header + 5
 
